@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/anadir_mascota"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Añadir Mascota" />
+    <item
+        android:id="@+id/eliminar_mascota"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Eliminar Mascota" />
+    <item
+        android:id="@+id/actualizar_mascota"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Actualizar Mascota" />
+    <item
+        android:id="@+id/numeros_mascotas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Mostrar numero de Mascotas" />
+</menu>
